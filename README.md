@@ -45,26 +45,21 @@ Previous section introduced the concept of callback functions. The purpose of ca
 What are event handlers? An event can be described as something happens on a website e.g. mouse hovering, button click etc. JQuery provides methods for performing actions when an event is happening, and it is called Event binding. Most general event binding method is called .on(). It makes use of callback functions as you have previously learnt about. Following resources are provided at [w3school](https://www.w3schools.com/jquery/jquery_ref_events.asp) and [events](https://learn.jquery.com/events/handling-events/).
 
 1. Write a statement which chains two callback functions after each other. The functions are not supposed to be called until the document has finished loading and you have pressed a button called Yellow Background. You will have to write a function call for *Yellow paragraphs*. This function changes the background color to yellow for all paragraph elements. The callback chain functions starts off with waiting until document is finished loading, followed by a button press which triggers another function that changes the background color of all the paragraphs.
-⋅⋅*  
-1. Write a statement which prompts a message when hovering over the paragraph with ID *aboutUS*.
-2. Write a statement which prompts a message once when hovering over the paragraph with ID *story*. In other words, the message should not appear once again when hovering over the paragraph a second time.
+  * Write a statement which prompts a message when hovering over the paragraph with ID *aboutUS*.
+  * Write a statement which prompts a message once when hovering over the paragraph with ID *story*. In other words, the message should not appear once again when hovering over the paragraph a second time.
 
 ### Assignment 5 - Form validator
 In most cases jQuery is used to process information before sending a request from server. This is because servers are processing large amount of data parallel. Sending faulty information leads to decreased performance for servers. As a result throughput lowers which means worse experience for the user. Therefore, it is important to make sure the information sent to servers are valid and correct. Thus, we put the responsibility on the website by implementing a validator with Javascript and jQuery, and this is the assignment for this section. No skeleton code is provide for this exercise.
 
-1. Create a form which has first and last name as two fields. Also add a third and fourth field for email address and telephone number. Lastly, create a comment field which the user can enter miscellaneous information.
-⋅⋅*  
-1. Optional: Apply CSS to make the form look nice in any design you want.
+1. Create a form which has first and last name as two fields. Also add a third and fourth field for email address and telephone number. Lastly, create a comment field which the user can enter miscellaneous information.  
+  * Optional: Apply CSS to make the form look nice in any design you want.
 2. Create a script which validates the form.
-⋅⋅*  
-1. Email: make sure it has the form of abc@def.se. In other words, make sure there is a prefix, suffix and at-sign.
-2. First and last name: make sure they are filled in.
-3. Telephone number: make sure it is a swedish number and starts with swedish landcode.
-      Landcode of sweden is +46.
-4. Comment: make sure it is filled in.
+  * Email: make sure it has the form of abc@def.se. In other words, make sure there is a prefix, suffix and at-sign.
+  * First and last name: make sure they are filled in.
+  * Telephone number: make sure it is a swedish number and starts with swedish landcode. Landcode of sweden is +46.
+  * Comment: make sure it is filled in.
 
 3. After the form is filled out, the user presses a button which sends them to next webpage or sends out an alert. For this assignment you can choose whether to display the result of the validation in a pop up window as an alert or webpage. For each of the fields there should be two statements, and you can choose the format you want to display the statements in.
-⋅⋅*  
-1. First statement should display whether the field was correctly filled or not.
-2. Second statement should display comments on the information that was filled in.
-3. An example would be to first display wrong in red and then comment on what was wrong with the information filled in.
+  * First statement should display whether the field was correctly filled or not.
+  * Second statement should display comments on the information that was filled in.
+  * An example would be to first display wrong in red and then comment on what was wrong with the information filled in.
