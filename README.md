@@ -7,16 +7,16 @@ Outline of the assignment is as follows, first few tasks regards traversal. Then
 
 ### Assignment 1 - Traversal
 \section{Traversal}
-First assignment regards traversal of HTML elements with jQuery. Traversal is the first building block of jQuery, and it is especially important because we want the ability to target correct HTML elements at our fingertips. The assignments of this section regards traversal of html documents. Read the following documents \href{https://www.w3schools.com/jquery/jquery_selectors.asp}{w3school}, \href{https://learn.jquery.com/about-jquery/how-jquery-works/}{jquery}, \href{https://www.w3schools.com/jquery/jquery_traversing.asp}{traversing} and solve the problems.
+First assignment regards traversal of HTML elements with jQuery. Traversal is the first building block of jQuery, and it is especially important because we want the ability to target correct HTML elements at our fingertips. The assignments of this section regards traversal of html documents. Read the following documents [w3school](https://www.w3schools.com/jquery/jquery_selectors.asp), [jquery](https://learn.jquery.com/about-jquery/how-jquery-works/), [traversing](https://www.w3schools.com/jquery/jquery_traversing.asp) and solve the problems.
 
 
 1. What is the purpose of \$ in JQuery?
 2. Name the three components and their functions of a jQuery statement.
 3. Write a statement to get all the paragraph elements.
 4. What are the two signs for accessing class and ID elements respectively?
-5. Write a statement that gets the first <div> element in the document.
+5. Write a statement that gets the first \<div\> element in the document.
 6. Write a statement that gets the element with the ID is *slideshow*.
 7. Write a statement to get all the elements that belong to the class *story*.
-8. Write a statement to target both <div> and <p> elements.
+8. Write a statement to target both \<div\> and \<p\> elements.
 9. Write a statement to target the element with a link attribute.
 10. Write a statement to target the even rows in a table.
