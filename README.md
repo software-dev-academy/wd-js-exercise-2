@@ -1,7 +1,7 @@
 # Lab 2 - JQuery
 
 ## What is jQuery, and what is it purpose?
-JQuery is a third-party library to Javascript, and it is commonly used amongst Javascript programmers. The purpose of the library is facilitate HTML traversals, manipulations, animation, event handling etc. Download the library on the following [page](https://jquery.com/download/) and follow the instructions. An API is provided at their [website](https://api.jquery.com). JQuery also provides an in-depth [learning page](https://learn.jquery.com) with information and tutorials. [Skeleton code](https://github.com/davyie/SDA_WWW_Lab2) is provided for you to work on and you can change what ever you like in the code.
+JQuery is a third-party library for Javascript, and it is commonly used amongst Javascript programmers. The purpose of the library is facilitate HTML traversals, manipulations, animation, event handling etc. Download the library on the following [page](https://jquery.com/download/) and follow the instructions. An API is provided at their [website](https://api.jquery.com). JQuery also provides an in-depth [learning page](https://learn.jquery.com) with information and tutorials. [Skeleton code](https://github.com/davyie/SDA_WWW_Lab2) is provided for you to work on and you can change what ever you like in the code.
 
 Outline of the assignment is as follows, first few tasks regards traversal. Then manipulation and event handlers are presented together with a few tasks. Afterwards, callback functions are presented together with related tasks. Lastly, to tie everything together we will build form validator.
 
